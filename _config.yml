@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: uhziel的博客
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: uhziel
 language: en
 timezone: ''
 
@@ -104,3 +104,16 @@ theme: cactus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+theme_config:
+  colorscheme: white
+  nav:
+    home: /
+    about: /about/
+    articles: /archives/
+    tag: /tags/
+    search: /search/
+  social_links:
+  copyright:
+    start_year: 2023
+    end_year:
